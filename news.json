@@ -1,0 +1,172 @@
+{
+    "articles": [
+        {
+            "title": "Tempestade Tropical Aracaju Alcança a Costa do Nordeste",
+            "description": "Tempestade tropical causa inundações e destruição no Nordeste do Brasil.",
+            "author": "Carlos Silva",
+            "author_photo": "https://example.com/authors/carlos_silva.jpg",
+            "publishedAt": "2024-07-13",
+            "full_news": "A tempestade tropical Aracaju atingiu a costa nordestina do Brasil com ventos de até 120 km/h, causando inundações e destruição em várias cidades. As autoridades locais estão em alerta máximo e pedem que a população se abrigue em locais seguros.",
+            "source": {
+                "name": "Notícias Brasil"
+            },
+            "urlToImage": "https://imagens.climatempo.com.br/climapress/galeria/2024/02/59b0426215562b44367ad6fbbb8644de.jpg"
+        },
+        {
+            "title": "Verão Escaldante no Sudeste Bate Recorde de Temperatura",
+            "description": "Temperaturas ultrapassam os 45°C no sudeste brasileiro.",
+            "author": "Mariana Oliveira",
+            "author_photo": "https://example.com/authors/mariana_oliveira.jpg",
+            "publishedAt": "2024-07-12",
+            "full_news": "O sudeste brasileiro enfrenta um verão histórico com temperaturas ultrapassando os 45°C em várias regiões, preocupando autoridades de saúde e causando aumento no consumo de energia elétrica devido ao uso intensivo de aparelhos de ar-condicionado.",
+            "source": {
+                "name": "Jornal do Clima"
+            },
+            "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/11/Calor.webp"
+        },
+        {
+            "title": "Forte Nevasca Paralisa Cidade no Sul do Brasil",
+            "description": "Nevasca histórica provoca o fechamento de estradas e serviços no sul do Brasil.",
+            "author": "João Pereira",
+            "author_photo": "https://example.com/authors/joao_pereira.jpg",
+            "publishedAt": "2024-07-11",
+            "full_news": "Uma nevasca histórica paralisou a cidade de Gramado, no Rio Grande do Sul, com mais de 50 cm de neve acumulada. As autoridades locais trabalham para restabelecer o acesso e os serviços essenciais.",
+            "source": {
+                "name": "Clima News"
+            },
+            "urlToImage": "https://monitordomercado.com.br/wp-content/uploads/2024/05/neve-no-brasil.jpg"
+        },
+        {
+            "title": "Cheias no Amazonas Desalojam Milhares de Famílias",
+            "description": "Chuvas intensas provocam enchentes e desalojam famílias no Amazonas.",
+            "author": "Ana Costa",
+            "author_photo": "https://example.com/authors/ana_costa.jpg",
+            "publishedAt": "2024-07-10",
+            "full_news": "As intensas chuvas no estado do Amazonas provocaram enchentes que desalojaram milhares de famílias. O governo estadual está mobilizando equipes de resgate e fornecendo abrigo temporário para os afetados.",
+            "source": {
+                "name": "Amazonas Alerta"
+            },
+            "urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyx9HnFeE7x9uCSGjqkE-jz5Tyakx_Z0CiwA&s"
+        },
+        {
+            "title": "Seca Prolongada Ameaça Safra de Grãos no Centro-Oeste",
+            "description": "Falta de chuva compromete produção agrícola no Centro-Oeste.",
+            "author": "Roberto Lima",
+            "author_photo": "https://example.com/authors/roberto_lima.jpg",
+            "publishedAt": "2024-07-09",
+            "full_news": "A seca prolongada que atinge o Centro-Oeste do Brasil está ameaçando a safra de grãos da região. Produtores agrícolas estão preocupados com a redução na produção e o impacto econômico subsequente.",
+            "source": {
+                "name": "Agro Notícias"
+            },
+            "urlToImage": "https://agro2.com.br/wp-content/uploads/2023/12/atraso-no-plantio-da-soja-deve-impactar-cultivo-do-milho-segunda-safra.jpg"
+        },
+        {
+            "title": "Inverno Atípico no Nordeste Traz Baixas Temperaturas",
+            "description": "Regiões do Nordeste registram temperaturas atipicamente baixas para a estação.",
+            "author": "Beatriz Souza",
+            "author_photo": "https://example.com/authors/beatriz_souza.jpg",
+            "publishedAt": "2024-07-08",
+            "full_news": "O Nordeste brasileiro está enfrentando um inverno atípico, com temperaturas baixas registradas em várias cidades. Moradores e turistas estão surpresos com a mudança climática, que trouxe temperaturas abaixo de 10°C em algumas áreas.",
+            "source": {
+                "name": "Nordeste Hoje"
+            },
+            "urlToImage": "https://i0.wp.com/jornaldecoromandel.com.br/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-28-at-17.24.29.jpeg?resize=679%2C445&ssl=1"
+        },
+        {
+            "title": "Ondas de Calor Prolongadas Aumentam Casos de Desidratação",
+            "description": "Ondas de calor levam a aumento nos casos de desidratação e exaustão.",
+            "author": "Fernando Rocha",
+            "author_photo": "https://example.com/authors/fernando_rocha.jpg",
+            "publishedAt": "2024-07-07",
+            "full_news": "As ondas de calor prolongadas em várias partes do Brasil estão levando a um aumento nos casos de desidratação e exaustão entre a população. As autoridades de saúde recomendam o consumo de água e a permanência em locais frescos.",
+            "source": {
+                "name": "Saúde e Clima"
+            },
+            "urlToImage": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/03/ondas-de-calor-e1710875506429.jpg?w=1220&h=674&crop=1"
+        },
+        {
+            "title": "Raios Causam Apagão em Grandes Cidades do Sudeste",
+            "description": "Tempestades com raios provocam apagões em São Paulo e Rio de Janeiro.",
+            "author": "Clara Mendes",
+            "author_photo": "https://example.com/authors/clara_mendes.jpg",
+            "publishedAt": "2024-07-06",
+            "full_news": "Tempestades acompanhadas de raios provocaram apagões em grandes cidades do sudeste, incluindo São Paulo e Rio de Janeiro. As equipes de emergência estão trabalhando para restaurar o fornecimento de energia elétrica.",
+            "source": {
+                "name": "Energia Notícias"
+            },
+            "urlToImage": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3406765:1692476680/raio.jpeg?f=16x9&$p$f=3ba3de1"
+        },
+        {
+            "title": "Deslizamentos de Terra Atingem Comunidades no Rio de Janeiro",
+            "description": "Chuvas intensas causam deslizamentos de terra no Rio de Janeiro.",
+            "author": "Luis Almeida",
+            "author_photo": "https://example.com/authors/luis_almeida.jpg",
+            "publishedAt": "2024-07-05",
+            "full_news": "Deslizamentos de terra causados por chuvas intensas atingiram comunidades na cidade do Rio de Janeiro. Equipes de resgate estão no local buscando sobreviventes e prestando assistência às famílias afetadas.",
+            "source": {
+                "name": "RJ Notícias"
+            },
+            "urlToImage": "https://quatrorodas.abril.com.br/wp-content/uploads/2023/12/432743_1091814_whatsapp_image_2023_12_14_at_12.59.13__3_.jpeg?quality=70&strip=info&w=720&crop=1"
+        },
+        {
+            "title": "Chuvas Torrenciais Provocam Caos em Salvador",
+            "description": "Salvador enfrenta alagamentos e transtornos devido a chuvas torrenciais.",
+            "author": "Patrícia Ferreira",
+            "author_photo": "https://example.com/authors/patricia_ferreira.jpg",
+            "publishedAt": "2024-07-04",
+            "full_news": "A cidade de Salvador, na Bahia, está enfrentando caos e transtornos devido a chuvas torrenciais que causaram alagamentos em várias partes da cidade. O trânsito está paralisado e muitos moradores estão ilhados.",
+            "source": {
+                "name": "Bahia Agora"
+            },
+            "urlToImage": "https://aloalobahia.com/wp-content/uploads/2024/04/iniivernoemssa_alo_alo_bahia.jpg"
+        },
+        {
+            "title": "Ventos Fortes Derrubam Árvores e Postes em Porto Alegre",
+            "description": "Ventos de até 100 km/h causam estragos em Porto Alegre.",
+            "author": "Rafael Martins",
+            "author_photo": "https://example.com/authors/rafael_martins.jpg",
+            "publishedAt": "2024-07-03",
+            "full_news": "Porto Alegre foi atingida por ventos fortes de até 100 km/h, que derrubaram árvores e postes de energia elétrica. As equipes de emergência estão atuando para remover os destroços e restabelecer o fornecimento de energia.",
+            "source": {
+                "name": "Porto Alegre News"
+            },
+            "urlToImage": "https://www.tamoiosnews.com.br/wp-content/uploads/2022/06/ventos-fortes.jpg"
+        },
+        {
+            "title": "Granizo Causa Destruição em Plantações no Paraná",
+            "description": "Chuva de granizo danifica plantações de milho e soja no Paraná.",
+            "author": "Isabela Araújo",
+            "author_photo": "https://example.com/authors/isabela_araujo.jpg",
+            "publishedAt": "2024-07-02",
+            "full_news": "Uma forte chuva de granizo atingiu o estado do Paraná, causando danos significativos às plantações de milho e soja. Os agricultores estão contabilizando os prejuízos e esperam ajuda governamental para recuperação.",
+            "source": {
+                "name": "Paraná Rural"
+            },
+            "urlToImage": "https://conceitos.com/wp-content/uploads/2015/04/Granizo.jpg"
+        },
+        {
+            "title": "Frente Fria Traz Geada ao Interior de São Paulo",
+            "description": "Geadas atingem o interior de São Paulo devido à frente fria.",
+            "author": "Eduardo Santana",
+            "author_photo": "https://example.com/authors/eduardo_santana.jpg",
+            "publishedAt": "2024-07-01",
+            "full_news": "Uma frente fria trouxe geadas ao interior de São Paulo, afetando principalmente as regiões agrícolas. Produtores de frutas e hortaliças estão preocupados com os danos causados às suas plantações.",
+            "source": {
+                "name": "SP Clima"
+            },
+            "urlToImage": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/chuvas-rapidas-frente-fria-previsao-do-tempo.jpg"
+        },
+        {
+            "title": "Alerta de Tsunami em Fernando de Noronha",
+            "description": "Autoridades emitem alerta de tsunami para Fernando de Noronha após terremoto no Atlântico.",
+            "author": "Vinícius Moreira",
+            "author_photo": "https://example.com/authors/vinicius_moreira.jpg",
+            "publishedAt": "2024-06-30",
+            "full_news": "As autoridades emitiram um alerta de tsunami para Fernando de Noronha após um terremoto de magnitude 7,8 no Atlântico. Os moradores e turistas foram orientados a se deslocarem para áreas mais elevadas como medida de precaução.",
+            "source": {
+                "name": "Notícias do Atlântico"
+            },
+            "urlToImage": "https://s2.static.brasilescola.uol.com.br/be/2021/04/alerta-tsunami.jpg"
+        }
+    ]
+}
