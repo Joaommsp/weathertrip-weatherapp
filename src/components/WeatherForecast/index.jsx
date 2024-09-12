@@ -51,6 +51,10 @@ const WeatherForecast = () => {
   const [currentData, setCurrentData] = useState("");
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [storedCityName]);
+
+  useEffect(() => {
     let index = getRandomNumber(1, 9);
     async function setImage() {
       let data = await getImage("rain");

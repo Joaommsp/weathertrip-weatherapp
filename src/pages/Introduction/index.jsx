@@ -30,6 +30,11 @@ const Introduction = () => {
   gsap.registerPlugin(ScrollTrigger);
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+
+  useEffect(() => {
     gsap.utils.toArray(".animated-item").forEach((item) => {
       gsap.fromTo(
         item,

@@ -55,6 +55,13 @@ npm run dev
 <img src="./src/assets/images/readme/MacBook Pro-1721875685131.jpeg" alt="Forecast">
 <img src="./src/assets/images/readme/MacBook Pro-1721875698374.jpeg" alt="Forecast">
 
+## 📱 Responsividade
+
+<p>Todo o conteúdo do site se adapta a diferentes tamanhos de tela</p>
+
+<img src="./src/assets/images/readme/responsive-ex01.png" alt="responsive01">
+
+
 ## 🪄 APIs utilizadas
 
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="Openweather API" width="100px" style="margin-right: 10px;" />

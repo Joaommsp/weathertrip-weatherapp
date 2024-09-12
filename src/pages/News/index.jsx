@@ -24,6 +24,10 @@ const News = () => {
   const [economyNews, setEconomyNews] = useState([]);
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  useEffect(() => {
     getNews();
   }, []);
 

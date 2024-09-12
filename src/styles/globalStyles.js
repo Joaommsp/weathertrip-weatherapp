@@ -7,6 +7,10 @@ const globalStyles = createGlobalStyle`
     box-sizing: border-box;
     outline: none;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
   
   body {
     font-family: 'Poppins', sans-serif;

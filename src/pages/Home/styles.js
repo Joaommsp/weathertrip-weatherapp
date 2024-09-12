@@ -17,6 +17,7 @@ export const HomeContainer = styled.div`
     height: 100%;
     padding: 0 8rem;
     margin-bottom: 4rem;
+    min-height: 100vh;
   }
 
   .galleryCards__Container {
